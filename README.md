@@ -38,7 +38,7 @@ Aspiring **Data Scientist** and **Machine Learning Engineer** with a passion for
 
 - [GitHub](https://github.com/JithinKrishna-Off)
 - [LinkedIn](#) *(www.linkedin.com/in/jithinkrishnaa)*
-- [Email](jithinkrishnaaa@gmail.com) 
+- [Email](#) *(jithinkrishnaaa@gmail.com)*
 
 ---
 
