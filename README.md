@@ -24,7 +24,8 @@ Aspiring **Data Scientist** and **Machine Learning Engineer** with a passion for
 
 ### 📊 GitHub Analytics
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JithinKrishna-Off&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JithinKrishna-Off&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+
 
 
 ---
